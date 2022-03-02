@@ -1,7 +1,5 @@
 # Ajax com JS puro
 Projeto criado para exemplicar requisições AJAX com Javascript puro
 
-Criado para exemplificar requisições Ajax no post feito para o meu [blog](http://blog.matheuscastiglioni.com.br)
+Criado para exemplificar requisições Ajax disponivel em: [buscaCep](https://lucasmatheus001.github.io/ajax_busca_cep/)
 
-Post: [Preenchendo formulário HTML automaticamente com AJAX](http://blog.matheuscastiglioni.com.br/requisicoes-ajax-com-javascript)
-# ajax_busca_cep
