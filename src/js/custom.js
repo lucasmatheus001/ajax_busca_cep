@@ -4,7 +4,7 @@
 
             let inputCep = document.querySelector('input[name=cep]');
             let cep = inputCep.value;
-            // let cep = inputCep.value.replace('-', '');
+            let cep = inputCep.value.replace('-', '');
             let url = 'http://viacep.com.br/ws/'+cep+'/json';
             let xhr = new XMLHttpRequest();
             xhr.open('GET', url, true);
