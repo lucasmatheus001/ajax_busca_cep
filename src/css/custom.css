@@ -1,0 +1,59 @@
+:root {
+    --color-primary : #0099FF;
+    --color-text : #FDFDFD;
+}
+
+body {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    background-image: url(https://cdni.iconscout.com/illustration/premium/thumb/delivery-man-confirms-the-order-with-his-customer-2741051-2280842.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.title {
+    background: var(--color-primary);
+    color: var(--color-text);
+    margin: 0;
+    margin-bottom: 2rem;
+    padding: 5rem;
+    text-align: center;
+}
+
+.orm___data {
+    background: #cdcd12;
+    text-shadow: 0 0 black;
+}
+
+.form {
+    padding: 1rem 5rem;
+}
+.form__text {
+    font-weight: bold;
+}
+.form___data {
+    border: 1px solid #DCDCDC;
+    border-radius: 3px;
+    color: #595959;
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    outline: none;
+    width: 100%;
+}
+
+.o-form__group {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+form.o-form {
+    background: #bd1f1f00;
+    opacity: 0.8;
+}
