@@ -1,5 +1,5 @@
 
-        function buscaCep() {
+        window.function buscaCep() {
             console.log('entrou');
 
             let inputCep = document.querySelector('input[name=cep]');
