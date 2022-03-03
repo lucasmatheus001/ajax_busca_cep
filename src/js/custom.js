@@ -23,7 +23,7 @@
             document.querySelector('input[name=cidade]').value = json.localidade;
             document.querySelector('input[name=estado]').value = json.uf;
         }
-})
+
         // console.log(JSON.parse(xhr.responseText));
 
         console.log('pegou');
