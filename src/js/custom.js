@@ -1,4 +1,4 @@
-$('#cep').change(function () {
+$('#cep').click(function () {
         buscaCep();
         function buscaCep() {
             console.log('entrou');
