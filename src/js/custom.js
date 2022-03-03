@@ -1,6 +1,4 @@
-$('#cep').click(function () {
-        buscaCep();
-        function buscaCep() {
+       function buscaCep() {
             console.log('entrou');
 
             let inputCep = document.querySelector('input[name=cep]');
